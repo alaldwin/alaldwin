@@ -41,9 +41,7 @@ A hands-on project building a structured data warehouse using SQL.
 
 ## 📊 GitHub Stats
 
-![Aldwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaldwin\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alaldwin\&layout=compact)
+[![Aldwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaldwin&show_icons=true&theme=default)](https://github.com/alaldwin)
 
 ---
 

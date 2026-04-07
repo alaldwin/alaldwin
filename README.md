@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aldwin Magpantay</h1>
-<h3 align="center">🎓 IT Student</h3>
-<h3 align="center">🚀 Aspiring Data Engineer</h3>
-<h3 align="center">📍 Philippines</h3>
-
-
-
+<h4 align="center">🎓 IT Student</h4>
+<h4 align="center">🚀 Aspiring Data Engineer</h4>
+<h4 align="center">📍 Philippines</h4>
 
 
 - 🔭 I'm currently working on [SQL-Data-Warehouse-Project](https://github.com/alaldwin/SQL-Data-Warehouse-Project)

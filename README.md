@@ -3,9 +3,12 @@
 <h3 align="center">🚀 Aspiring Data Engineer</h3>
 <h3 align="center">📍 Philippines</h3>
 
-<h3>💡 About Me</h3>
-<h4> I’m currently learning and building projects in Data Engineering.
+<h3 align="center">💡 About Me</h3>
+<h4 align="center"> I’m currently learning and building projects in Data Engineering.
 Focused on ETL and designing data pipelines, transforming raw data into insights, and learning with modern data tools.</h4>
+
+
+
 
 - 🔭 I'm currently working on [SQL-Data-Warehouse-Project](https://github.com/alaldwin/SQL-Data-Warehouse-Project)
 

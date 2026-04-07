@@ -1,25 +1,68 @@
-<h1 align="center">Hi 👋, I'm Aldwin Magpantay</h1>
-<h4 align="center">🎓 IT Student</h4>
-<h4 align="center">🚀 Aspiring Data Engineer</h4>
-<h4 align="center">📍 Philippines</h4>
+# 👋 Hi, I'm Aldwin
+
+🎯 **Aspiring Data Engineer**
+I build and learn data systems using **SQL, Python, and modern data tools**.
+
+---
+
+## 🚀 About Me
+
+* 📚 Currently focused on **Data Engineering**
+* 🛠️ Working with **SQL, Python, Git**
+* ☁️ Learning **Spark, AWS, Airflow, Snowflake**
+* 🎯 Goal: Build scalable data pipelines and real-world data projects
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,python,git,bash)](https://skillicons.dev)
+
+### ☁️ Currently Learning
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 
-- 🔭 I'm currently working on [SQL-Data-Warehouse-Project](https://github.com/alaldwin/SQL-Data-Warehouse-Project)
+---
 
-- 🌱 I’m currently learning **Spark, Databricks**
+## 📂 Featured Project
 
-- 👨‍💻 All of my projects are available at [https://github.com/alaldwin](https://github.com/alaldwin)
+🔹 **SQL Data Warehouse Project**
+A hands-on project building a structured data warehouse using SQL.
 
-- 📫 How to reach me **magpantay01258@gmail.com**
+👉 [View Repository](https://github.com/alaldwin/SQL-Data-Warehouse-Project?utm_source=chatgpt.com)
 
-- ⚡ Fun fact **I enjoy turning messy data into structured insights 🚀**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/aldwin.alvarez.906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aldwin.alvarez.906" height="30" width="40" /></a>
-<a href="https://instagram.com/alaldwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alaldwin" height="30" width="40" /></a>
-</p>
+## 📊 GitHub Stats
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![Aldwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaldwin\&show_icons=true\&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alaldwin\&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magpantay01258@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alaldwin?utm_source=chatgpt.com)
+[![Messenger](https://img.shields.io/badge/Messenger-0078FF?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/aldwin.alvarez.906?utm_source=chatgpt.com)
+
+---
+
+## ⚡ Fun Facts
+
+* 💡 I enjoy solving data problems and optimizing queries
+* 📊 I like turning raw data into meaningful insights
+* 🚀 I’m building my path to become a **Data Engineer**
+
+---
+
+⭐ *Always learning. Always building.*
+
 

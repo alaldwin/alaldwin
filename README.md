@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aldwin Magpantay</h1>
 <h3 align="center">Aspiring Data Engineer</h3>
 
-- 🔭 I'm currently working on [SQL-Data-Warehouse-Project](https://github.com/alaldwin/SQL-Data-Warehouse-Project)
+- I’m currently learning **Docker, Airflow, Spark, Databricks, AWS**
 
-- 🌱 I’m currently learning **Docker, Airflow, Spark, Databricks, AWS**
+- How to reach me **magpantay01258@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://github.com/alaldwin](https://github.com/alaldwin)
-
-- 📫 How to reach me **magpantay01258@gmail.com**
-
-- ⚡ Fun fact **I enjoy turning messy data into structured insights 🚀**
+- Fun fact **I enjoy turning messy data into structured insights 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

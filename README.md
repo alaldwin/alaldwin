@@ -12,27 +12,7 @@
 
 ---
 
-<p align="center">
 
-![](https://img.shields.io/badge/BSIT-Student-6D28D9?style=for-the-badge)
-
-![](https://img.shields.io/badge/Aspiring-Data%20Engineer-7C3AED?style=for-the-badge)
-
-![](https://img.shields.io/badge/Open%20to-Internships-8B5CF6?style=for-the-badge)
-
-</p>
-
-<p align="center">
-
-![](https://img.shields.io/badge/Location-Philippines-4F46E5?style=flat-square)
-
-![](https://img.shields.io/badge/Focus-Data%20Engineering-6D28D9?style=flat-square)
-
-![](https://img.shields.io/badge/Learning-Spark%20%7C%20Airflow%20%7C%20AWS-7C3AED?style=flat-square)
-
-</p>
-
----
 
 ## 👋 About Me
 
@@ -44,20 +24,20 @@ My goal is to continuously improve my engineering skills while creating projects
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
-- 📊 Data Engineering
-- ⚡ PySpark
-- ☁️ AWS
-- 🔄 Apache Airflow
-- 🏗️ Lakehouse Architecture
-- 📈 Analytics Engineering
+- Data Engineering
+- PySpark
+- AWS
+- Apache Airflow
+- Lakehouse Architecture
+- Analytics Engineering
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
-<p align="center">
+<p>
 
 <a href="https://github.com/alaldwin">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -79,17 +59,7 @@ My goal is to continuously improve my engineering skills while creating projects
 
 ---
 
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=alaldwin&style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/followers/alaldwin?style=for-the-badge&color=6D28D9)
-
-![](https://img.shields.io/github/stars/alaldwin?style=for-the-badge&color=A855F7)
-
-</p>
-
-# 💻 Tech Stack
+# Tech Stack
 
 ### Programming Languages
 <p>

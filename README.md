@@ -3,13 +3,11 @@
 <!-- ===================================================== -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:A855F7&text=Aldwin%20Magpantay&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Engineer%20|%20Building%20Scalable%20Data%20Platforms&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:A855F7&text=Aldwin%20Magpantay&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Engineer%20"/>
 </p>
 
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Aspiring+Data+Engineer;Building+Modern+Data+Pipelines;SQL+%E2%80%A2+Python+%E2%80%A2+Spark+%E2%80%A2+Airflow;ETL+%7C+Lakehouse+%7C+Analytics+Engineering;Always+Learning+Something+New+%F0%9F%9A%80"/>
-
+<p align="center"> 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Building+Modern+Data+Pipelines;SQL+%E2%80%A2+Python+%E2%80%A2+Spark+%E2%80%A2+Airflow;ETL+%7C+Lakehouse+%7C+Analytics+Engineering;Always+Learning+Something+New;Solve+problems;Create+value;Never+stop+building;Turn+ideas+into+reality"/> 
 </p>
 
 ---

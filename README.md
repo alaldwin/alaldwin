@@ -1,18 +1,113 @@
-<h1 align="center">Hi 👋, I'm Aldwin Magpantay</h1>
-<h3 align="center">Aspiring Data Engineer</h3>
+<!-- ===================================================== -->
+<!--                    HERO SECTION                       -->
+<!-- ===================================================== -->
 
-- I’m currently learning **Docker, Airflow, Spark, Databricks, AWS**
-
-- How to reach me **magpantay01258@gmail.com**
-
-- Fun fact **I enjoy turning messy data into structured insights 🚀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aldwinmagpantay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldwinmagpantay" height="30" width="40" /></a>
-<a href="https://fb.com/aldwin.alvarez.906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aldwin.alvarez.906" height="30" width="40" /></a>
-<a href="https://instagram.com/alaldwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alaldwin" height="30" width="40" /></a>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:A855F7&text=Aldwin%20Magpantay&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Engineer%20|%20Building%20Scalable%20Data%20Platforms&descAlignY=58&animation=fadeIn"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img  <a  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Aspiring+Data+Engineer;Building+Modern+Data+Pipelines;SQL+%E2%80%A2+Python+%E2%80%A2+Spark+%E2%80%A2+Airflow;ETL+%7C+Lakehouse+%7C+Analytics+Engineering;Always+Learning+Something+New+%F0%9F%9A%80"/>
+
+</p>
+
+---
+
+<p align="center">
+
+![](https://img.shields.io/badge/BSIT-Student-6D28D9?style=for-the-badge)
+
+![](https://img.shields.io/badge/Aspiring-Data%20Engineer-7C3AED?style=for-the-badge)
+
+![](https://img.shields.io/badge/Open%20to-Internships-8B5CF6?style=for-the-badge)
+
+![](https://img.shields.io/badge/Graduation-2027-A855F7?style=for-the-badge)
+
+</p>
+
+<p align="center">
+
+![](https://img.shields.io/badge/Location-Philippines-4F46E5?style=flat-square)
+
+![](https://img.shields.io/badge/Focus-Data%20Engineering-6D28D9?style=flat-square)
+
+![](https://img.shields.io/badge/Learning-Spark%20%7C%20Airflow%20%7C%20AWS-7C3AED?style=flat-square)
+
+</p>
+
+---
+
+## 👋 About Me
+
+Hi, I'm **Aldwin Magpantay**, a **BSIT student** passionate about building reliable, scalable, and modern data platforms.
+
+I'm focused on becoming a professional **Data Engineer** by designing end-to-end ETL pipelines, data warehouses, and lakehouse architectures using industry-standard tools.
+
+My goal is to continuously improve my engineering skills while creating projects that solve real-world business problems using data.
+
+---
+
+## 🚀 Current Focus
+
+- 📊 Data Engineering
+- ⚡ PySpark
+- ☁️ AWS
+- 🔄 Apache Airflow
+- 🏗️ Lakehouse Architecture
+- 🐳 Docker
+- 📦 dbt
+- 🗄 PostgreSQL
+- 📈 Analytics Engineering
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/alaldwin">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/aldwinmagpantay">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:magpantay01258@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/alaldwin">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=alaldwin&style=for-the-badge&color=7C3AED)
+
+![](https://img.shields.io/github/followers/alaldwin?style=for-the-badge&color=6D28D9)
+
+![](https://img.shields.io/github/stars/alaldwin?style=for-the-badge&color=A855F7)
+
+</p>
+
+# 💻 Tech Stack
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://cdn.simpleicons.org/sqlite" height="48" />
+</p>
+
+
+

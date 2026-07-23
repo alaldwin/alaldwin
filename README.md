@@ -22,8 +22,6 @@
 
 ![](https://img.shields.io/badge/Open%20to-Internships-8B5CF6?style=for-the-badge)
 
-![](https://img.shields.io/badge/Graduation-2027-A855F7?style=for-the-badge)
-
 </p>
 
 <p align="center">
@@ -55,9 +53,6 @@ My goal is to continuously improve my engineering skills while creating projects
 - ☁️ AWS
 - 🔄 Apache Airflow
 - 🏗️ Lakehouse Architecture
-- 🐳 Docker
-- 📦 dbt
-- 🗄 PostgreSQL
 - 📈 Analytics Engineering
 
 ---
@@ -106,7 +101,6 @@ My goal is to continuously improve my engineering skills while creating projects
 ### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-  <img src="https://cdn.simpleicons.org/sqlite" height="48" />
 </p>
 
 

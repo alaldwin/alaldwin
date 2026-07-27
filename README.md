@@ -26,11 +26,9 @@ My goal is to continuously improve my engineering skills while creating projects
 
 ## Current Focus
 
-- Data Engineering
-- PySpark
-- AWS
-- Apache Airflow
+- Data Modeling
 - Lakehouse Architecture
+- Data Engineering
 - Analytics Engineering
 
 ---

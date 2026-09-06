@@ -58,24 +58,7 @@ My goal is to continuously improve my engineering skills while creating projects
 ---
 
 # Tech Stack
-
-### Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,bash" />
-</p>
-
-### Databases
-<p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alaldwin&theme=github-compact&hide_border=true" width="100%"/>
-</p>
-
-
-

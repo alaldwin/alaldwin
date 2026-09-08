@@ -16,11 +16,11 @@
 
 ## 👋 About Me
 
-Hi, I'm **Aldwin Magpantay**, a **BSIT student** passionate about building reliable, scalable, and modern data platforms.
+Hi, I'm **Aldwin Magpantay**, a BS **Information Technology** student specializing in modern **Data Engineering**.
 
-I'm focused on becoming a professional **Data Engineer** by designing end-to-end ETL pipelines, data warehouses, and lakehouse architectures using industry-standard tools.
+I am passionate about designing end-to-end ETL/ELT pipelines, optimized data warehouses, and lakehouse architectures using industry-standard tools and best practices. My objective is to bridge the gap between raw data systems and business insights by building high-performance, production-grade data platforms.
 
-My goal is to continuously improve my engineering skills while creating projects that solve real-world business problems using data.
+Driven by a commitement to continuous technical growth, I focus on building real-world projects that emphasize data reliability, scalability, and system efficiency.
 
 ---
 

@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:A855F7&text=Aldwin%20Magpantay&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Engineer%20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:A855F7&text=Aldwin%20Magpantay&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20-%20Analytics%20Engineer"/>
 </p>
 
 <p align="center"> 

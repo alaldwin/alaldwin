@@ -22,14 +22,6 @@ I am passionate about designing end-to-end ETL/ELT pipelines, optimized data war
 
 Driven by a commitement to continuous technical growth, I focus on building real-world projects that emphasize data reliability, scalability, and system efficiency.
 
----
-
-## Current Focus
-
-- Data Modeling
-- Lakehouse Architecture
-- Data Engineering
-- Analytics Engineering
 
 ---
 

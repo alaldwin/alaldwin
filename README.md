@@ -25,6 +25,15 @@ Driven by a commitement to continuous technical growth, I focus on building real
 
 ---
 
+# Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+
+---
+
 ## Connect With Me
 
 <p>
@@ -47,10 +56,3 @@ Driven by a commitement to continuous technical growth, I focus on building real
 
 </p>
 
----
-
-# Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash" />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>

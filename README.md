@@ -23,18 +23,11 @@ I am passionate about designing end-to-end ETL/ELT pipelines, optimized data war
 Driven by a commitement to continuous technical growth, I focus on building real-world projects that emphasize data reliability, scalability, and system efficiency.
 
 
----
-
-# Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash" />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
 
 
 ---
 
-## Connect With Me
+### Connect With Me
 
 <p>
 
@@ -56,3 +49,11 @@ Driven by a commitement to continuous technical growth, I focus on building real
 
 </p>
 
+
+---
+
+### Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>

@@ -2,11 +2,9 @@
 
 Hi, I'm **Aldwin Magpantay**, a BS **Information Technology** student.
 
-I'm an Information Technology student passionate about Data Engineering, Data Analytics
+I'm an Information Technology student, Start learning about Data Engineering, Data Analytics.
 Currently a college student navigating my journey, discovering my interests, challenging myself, and working toward the future I want to build.
 This GitHub profile is a small part of my journey—a place where I document my progress, explore new ideas, and grow along the way.
-
-Still learning. Still growing. Always moving forward.
 
 ---
 

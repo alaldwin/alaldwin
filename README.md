@@ -1,4 +1,4 @@
-## 👋 About Me
+##  About Me
 
 Hi, I'm **Aldwin Magpantay**, a BS **Information Technology** student.
 
@@ -10,7 +10,7 @@ Still learning. Still growing. Always moving forward.
 
 ---
 
-<h2>🤝 Connect With Me</h2>
+<h2> Connect With Me</h2>
 
 <p>
   <a href="https://github.com/alaldwin">
